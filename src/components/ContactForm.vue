@@ -121,4 +121,7 @@
 
 <style scoped>
     @import "@/assets/form.css";
+    .error-feedback {
+        color: red;
+    }
 </style> 
